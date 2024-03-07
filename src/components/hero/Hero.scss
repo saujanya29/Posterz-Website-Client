@@ -1,0 +1,30 @@
+.Hero{
+
+    height: 80vh;
+    background-image: url('../../assets/banner.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    // we created a overlay over bg image so the text above it can be seen clearly
+    .hero-content{
+        height: 100%;
+        flex-direction: column;
+        background-color: rgba($color: #000000, $alpha: 0.5); // this is overlay to bg img
+        gap: 10px;
+        text-align: center;
+
+
+        .heading{
+            color: white;
+            font-size: 3rem;
+        }
+        .subheading{
+            color: whitesmoke;
+            font-size: 1.2rem;
+        }
+        .cta{
+            margin-top: 16px;
+        }
+
+    }
+}
