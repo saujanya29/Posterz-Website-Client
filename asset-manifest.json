@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Posterz-Website-Client/static/css/main.fb604d1b.css",
+    "main.js": "/Posterz-Website-Client/static/js/main.0afbe46a.js",
+    "static/media/banner.jpeg": "/Posterz-Website-Client/static/media/banner.bff1c72d8182997c517b.jpeg",
+    "static/media/naruto.jpeg": "/Posterz-Website-Client/static/media/naruto.50fefc513dbce4e1716d.jpeg",
+    "static/media/poster.jpeg": "/Posterz-Website-Client/static/media/poster.a037f50c22c7dca45693.jpeg",
+    "static/media/creditcardicons.png": "/Posterz-Website-Client/static/media/creditcardicons.8ea9fa69856f315a9267.png",
+    "index.html": "/Posterz-Website-Client/index.html",
+    "main.fb604d1b.css.map": "/Posterz-Website-Client/static/css/main.fb604d1b.css.map",
+    "main.0afbe46a.js.map": "/Posterz-Website-Client/static/js/main.0afbe46a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb604d1b.css",
+    "static/js/main.0afbe46a.js"
+  ]
+}
